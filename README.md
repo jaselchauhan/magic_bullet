@@ -13,3 +13,10 @@ N.B. .the below instructions are designed for use with Sublime Text Editor. If y
 4. In Terminal run source ~/.zshrc  to update zsh
 5. Create a folder for your new app and cd into it
 6. Type either "ratpack!" (for Ruby Sinatra) or "runforrest!" (for express javascript) and go get yourself a coffee - you've just saved 5 mins of tedious setup.
+
+
+What Am I Actually Installing when I run the runforrest! or ratpack! command?
+
+It's a good question, to which we have the answer! Basically you are creating the basic file structure of a Sinatra or Express App, so config, controllers, data, public, views folders as well as a main app file will be created. These are files and folders which are used in pretty much all Sinatra/Express apps so by running this you'll save yourself the hassle of manually setting these up....which means more time for thinking about stuff that matters.....or drinking some tasty coffee.
+
+Enjoy!
